@@ -24,21 +24,10 @@ Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, 
 
 # 3. MARCO TEÓRICO
 
-Las Leyes de Kirchhoff están basadas en dos leyes fundamentales en la ciencia, la Ley de Conservación de la Carga y la Ley de conservación de la Energía, de esta forma Gustav Kirchhoff en 1848 plantea sus leyes entre ellas tenemos a la Ley de Voltaje de Kirchhoff, la cual postula _En un camino cerrada la suma de las subidas de tensión es igual a la suma de las caídas de tensión,_ sin embargo, esta ley se complementa con la Ley de Ohm, teniendo una relación adecuada que relacione la tensión y la intensidad.
+El principio o teorema de superposición establece que la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones y/o intensidades a través de ese elemento debido a que cada fuente independiente actúa sola.
 
-Dentro del análisis de circuitos usando la Ley de Voltaje de Kirchhoff se usa el método de nodo de voltaje dentro del cuál podemos encontrar tres tipos diferentes de variaciones o variables.
+Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, se establece un camino que circulará la corriente a través del circuito hasta volver a la fuente, al aumentar el número de fuentes el concepto se sigue cumpliendo para cada una de ellas, y cada una de ellas estimula a cada elemento del circuito, por ello si analizamos fuentes de voltaje o corriente cuya sentido es opuesto, podemos reducir a una sola fuente en una dirección al realizar una suma algebraica, y ya que cada una de ellas estimula de forma diferente a cada elemento del circuito se puede calcular el voltaje final al analizar cada una de los estímulos de las fuentes y realizar una suma algebraica consideran los sentidos de circulación, para realizar este análisis se sigue el siguiente proceso.
 
-- Resistencia y fuentes de corriente independiente.
-- Resistencia y fuentes de corriente y voltajes independientes.
-- Resistencia y fuentes de voltaje dependientes
-
-Al analizar un circuito encontramos que los voltajes llegan a variar dependiendo de la cantidad de elementos presentes en un circuito, de igual forma se encuentra una corriente circulando por una linea que conecta los terminales de los elementos del circuito, esta corriente es utilizada en el análisis de mallas con la Ley de voltajes de Kirchhoff, ya que se recomienda seguir 3 pasos para el análisis del circuito y la obtención de los valores de voltaje y corriente.
-
-- **1.** Identificar las mallas en el circuito.
-- **2.** Idealizar la corriente que circula por la malla y el sentido de la misma, se recomienda el sentido positivo para todas las corrientes.
-- **3.** Aplicar la Ley de Voltaje de Kirchhoff realizando la sumatoria de las tensiones, usar la ley de Ohm para las relaciones de voltaje-corriente, y realizar el sistema de ecuaciones con las n incógnitas presentadas según el número de mallas.
-
-Por otro lado, existen circuitos que contienen más de una fuente, y mallas que no tienen una fuente pero, que circula una corriente por sus lineas.
 
 # 4. DIAGRAMAS
 
