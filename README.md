@@ -52,6 +52,10 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 
 # 5. LISTA DE COMPONENTES
 
+![](https://github.com/erickfi/Laboratorio-4/blob/master/img/materiales-4.PNG)
+
+# 6. TABLA DE RESULTADOS
+
 
 
 # 6. CONCLUSIONES
