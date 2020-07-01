@@ -12,14 +12,15 @@ Para analizar un circuito usando las relaciones mencionadas anteriormente, exist
 
 Aunque los métodos mencionados funcionan aún existe el riesgo de un fallo en el análisis matemático, después de todo seguimos teniendo varias fuentes de corriente y/o voltaje cuyo método de resolución se reduce a un sistema de ecuaciones, de esta forma surgen las interrogantes, ¿Cuál es la probabilidad de que una persona falle en el análisis matemático?, ¿En qué condiciones el análisis usando las Leyes de Kirchhoff, la Ley de Ohm y los divisores de corriente y/o voltaje presentarían resultados aunque aproximados, erróneos?, pero sin lugar a dudas la interrogante más importante es ¿Hasta que punto es necesario la implementación de un nuevo método de análisis de circuitos?
 
-Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, ya que dependerá de la persona que analice el circuito, a esto se suma que el porcentaje de error de los resultados no radica en los métodos, o las leyes, sino en la persona que usa los métodos de análisis, de esta forma surge el análisis mediante superposición, aunque no nos permite reducir los componentes eléctricos que un circuito, si nos permite reducir las fuentes de corriente y/o voltaje, al realizar un análisis individual de como afecta cada fuente al circuito en general.
+Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, ya que dependerá de la persona que analice el circuito, a esto se suma que el porcentaje de error de los resultados no radica en los métodos, o las leyes, sino en la persona que usa los métodos de análisis, de esta forma surge el análisis mediante el teorema de superposición, aunque no nos permite reducir los componentes eléctricos que un circuito, si nos permite reducir las fuentes de corriente y/o voltaje, al realizar un análisis individual de como afecta cada fuente al circuito en general.
 
 
 
 # 2. OBJETIVOS
 
-- Comprobar experimentalmente el análisis de mallas
-- Analizar y evaluar la Ley de Voltaje de Kirchhoff en mallas afectadas por dos fuentes de voltaje.
+- Comprobar experimentalmente el teorema de superposicipon 
+- Analizar e identificar la interacción de los elementos de un circuito con cada una de las fuentes de voltaje y corriente.
+- Calcular y contrastar los voltajes de los elementos de un circuito eléctrico de usando el teorema de superposición y los obtenidos con un multimetro
 
 # 3. MARCO TEÓRICO
 
