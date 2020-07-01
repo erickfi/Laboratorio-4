@@ -56,7 +56,13 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 
 # 6. TABLA DE RESULTADOS
 
+- Medición de voltaje aplicando superposición
 
+![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Tabla%20de%20voltajes.PNG)
+
+- Medición de corriente aplicando superposición
+
+![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Tabla%20corrientes.PNG)
 
 # 6. CONCLUSIONES
 
