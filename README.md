@@ -28,6 +28,9 @@ El principio o teorema de superposición establece que la tensión entre los ext
 
 Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, se establece un camino que circulará la corriente a través del circuito hasta volver a la fuente, al aumentar el número de fuentes el concepto se sigue cumpliendo para cada una de ellas, y cada una de ellas estimula a cada elemento del circuito, por ello si analizamos fuentes de voltaje o corriente cuya sentido es opuesto, podemos reducir a una sola fuente en una dirección al realizar una suma algebraica, y ya que cada una de ellas estimula de forma diferente a cada elemento del circuito se puede calcular el voltaje final al analizar cada una de los estímulos de las fuentes y realizar una suma algebraica consideran los sentidos de circulación, para realizar este análisis se sigue el siguiente proceso.
 
+1.	Apague todas las fuentes independientes, excepto una. Determine la salida de tensión o corriente de la fuente activa aplicando el análisis con las Leyes de Kirchhoff.
+2.	Repita el paso anterior, para cada una de las demás fuentes independientes.
+3.	Halle los valores de voltaje o corriente total sumando algebraicamente las obtenidas en los pasos anteriores.
 
 # 4. DIAGRAMAS
 
