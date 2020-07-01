@@ -6,6 +6,14 @@
 
 # 1. PLANTEAMIENTO DEL PROBLEMA
 
+La tensión y la intensidad son elementos fundamentales que un circuito requiere para su funcionamiento, al analizar un circuito estos elementos no solo representan el punto y la dirección por el que circula la corriente, sino que el voltaje del resto de los elementos electrónicos se verá afectado por el valor de los mismos, al usar las Leyes de Kirchhoff podemos crear relaciones tensión-intensidad, a esto le añadimos la Ley de Ohm que nos permite relacionar los elementos del circuito con los voltajes que tendrán o las corrientes que circulan por sus lazos.
+
+Para analizar un circuito usando las relaciones mencionadas anteriormente, existen dos métodos conocidos, análisis por mallas o análisis por nodos, los cuáles resultan efectivos e inmediatos cuando un circuito posee pocos elementos y varias fuentes ya sea de voltaje o corriente, sin embargo, si este número aumenta la dificultad de resolver usando estos métodos será directamente proporcional a este crecimiento, esto no se debe a que los métodos tenderán a fallar a medida que el circuito crece, el error radica en la matemática de la persona que analiza el circuito, de esta forma surgen métodos alternativos que nos permiten reducir de tamaño el circuito a analizar, como por ejemplo el divisor de corriente o voltaje, la transformación de fuentes, etc.
+
+Aunque los métodos mencionados funcionan aún existe el riesgo de un fallo en el análisis matemático, después de todo seguimos teniendo varias fuentes de corriente y/o voltaje cuyo método de resolución se reduce a un sistema de ecuaciones, de esta forma surgen las interrogantes, ¿Cuál es la probabilidad de que una persona falle en el análisis matemático?, ¿En qué condiciones el análisis usando las Leyes de Kirchhoff, la Ley de Ohm y los divisores de corriente y/o voltaje presentarían resultados aunque aproximados, erróneos?, pero sin lugar a dudas la interrogante más importante es ¿Hasta que punto es necesario la implementación de un nuevo método de análisis de circuitos?
+
+Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, ya que dependerá de la persona que analice el circuito, a esto se suma que el porcentaje de error de los resultados no radica en los métodos, o las leyes, sino en la persona que usa los métodos de análisis, de esta forma surge el análisis mediante superposición, aunque no nos permite reducir los componentes eléctricos que un circuito, si nos permite reducir las fuentes de corriente y/o voltaje, al realizar un análisis individual de como afecta cada fuente al circuito en general.
+
 
 
 # 2. OBJETIVOS
