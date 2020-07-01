@@ -47,7 +47,7 @@ Por otro lado, existen circuitos que contienen más de una fuente, y mallas que 
 
 # 8. CRONOGRAMA 
 
-
+![](img/cronograma-practica-4.PNG)
 
 # 9. BIBLIOGRAFÍA
 
