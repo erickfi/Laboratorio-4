@@ -91,4 +91,4 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 
 # 11. ANEXOS
 
-- https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/Anexos/C%C3%A1lculos%20Anal%C3%ADticos.pdf
+- https://github.com/erickfi/Laboratorio-4/blob/master/Anexos/Anexos.pdf
