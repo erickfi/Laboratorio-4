@@ -66,13 +66,16 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 
 # 7. CONCLUSIONES
 - Existe un error menor al 1% en los cálculos de voltaje y un 0% en el cálculo de la corriente con el teorema de superposición, por lo tanto, se demuestra que el análisis de superposición funciona.
--Los elementos eléctricos, independientemente de su ubicación en el circuito, son estimulados por cada fuente del circuito.
-- 
+- Los elementos eléctricos, independientemente de su ubicación en el circuito, son estimulados por cada fuente del circuito.
+- Se comprueba el teorema de superposición para voltajes  dado que si se suma la tensión al analizar la primera fuente que es  7.48  V y el voltaje del análisis de la segunda fuente -6.53 V se obtiene el  valor cercano al voltaje final de 952 mV
+- Cuando se iguala la fuente de 12V a 0, la corriente que pasa por la resistencia de 470 ohmios es igual 0 ya que en este caso la corriente busca el camino mas facil o con menos resistencia para poder circular.
 
 # 8. RECOMENDACIONES
 
 - Para realizar la práctica es necesario aprender a manejar correctamente el multímetro al momento de obtener las corrientes y revisando en que unidades se están manejando
-
+- Cuando se realice los cálculos analíticos es muy importante trabajar con varias cifras significativas, ya que estas influyen mucho en el resultado final.
+- El teorema de la Superposición nos va a ayudar a encontrar el voltaje o corriente de cualquier elemento del circuito siempre y cuando apliquemos de forma correcta todos los conceptos. 
+- Si aplicamos el teorema de Superposición es necesario tener en cuenta que las fuentes de voltaje al igualarlas a 0 se comportan como un cortocircuito, por otro lado si tuvieramos fuentes de corriente estas se van a comportar como circuitos abiertos.
 
 
 # 9. CRONOGRAMA 
