@@ -64,24 +64,28 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 
 ![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Tabla%20corrientes.PNG)
 
-# 6. CONCLUSIONES
+# 7. CONCLUSIONES
+- Existe un error menor al 1% en los cálculos de voltaje y un 0% en el cálculo de la corriente con el teorema de superposición, por lo tanto, se demuestra que el análisis de superposición funciona.
+-Los elementos eléctricos, independientemente de su ubicación en el circuito, son estimulados por cada fuente del circuito.
+- 
+
+# 8. RECOMENDACIONES
+
+- Para realizar la práctica es necesario aprender a manejar correctamente el multímetro al momento de obtener las corrientes y revisando en que unidades se están manejando
 
 
-# 7. RECOMENDACIONES
 
-
-
-# 8. CRONOGRAMA 
+# 9. CRONOGRAMA 
 
 ![](img/cronograma-practica-4.PNG)
 
-# 9. BIBLIOGRAFÍA
+# 10. BIBLIOGRAFÍA
 
 - _"Sadiku.M, Fundamentos de Circuitos Eléctricos, tercera edición"_
 - http://repositorio.innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
 - https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9ctricos
 - https://www.youtube.com/watch?v=HXzxUEZmgRg
 
-# 10. ANEXOS
+# 11. ANEXOS
 
 - https://github.com/leonsteven2/Pr-ctica-N-2/blob/master/Anexos/C%C3%A1lculos%20Anal%C3%ADticos.pdf
