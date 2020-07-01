@@ -35,15 +35,19 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 # 4. DIAGRAMAS
 
 - Circuito para el análisis del teorema de superposición
+
 ![](https://github.com/erickfi/Laboratorio-4/blob/master/img/diagrama-4.PNG)
 
 - Tensión y corriente del circuito 
+
 ![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Thinker%204.1.png)
 
 - Análisis de la primera fuente
+
 ![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Thinker%204.2.png)
 
 - Análisis de la segunda fuente
+
 ![](https://github.com/erickfi/Laboratorio-4/blob/master/img/thinker%204.3.png)
 
 # 5. LISTA DE COMPONENTES
