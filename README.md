@@ -93,6 +93,6 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 [3] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 
 # 11. ANEXOS
-- ** Cálculos Analíticos**
+**- Cálculos Analíticos**
 
 Ver cálculos analíticos < https://github.com/erickfi/Laboratorio-4/blob/master/Anexos/Anexos.pdf >
