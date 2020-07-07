@@ -24,12 +24,14 @@ Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, 
 
 # 3. MARCO TEÓRICO
 
-El principio o teorema de superposición establece que la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones y/o intensidades a través de ese elemento debido a que cada fuente independiente actúa sola.
+El principio o teorema de superposición establece que "la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones y/o intensidades a través de ese elemento debido a que cada fuente independiente actúa sola"[1].
 
-Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, se establece un camino que circulará la corriente a través del circuito hasta volver a la fuente, al aumentar el número de fuentes el concepto se sigue cumpliendo para cada una de ellas, y cada una de ellas estimula a cada elemento del circuito, por ello si analizamos fuentes de voltaje o corriente cuya sentido es opuesto, podemos reducir a una sola fuente en una dirección al realizar una suma algebraica, y ya que cada una de ellas estimula de forma diferente a cada elemento del circuito se puede calcular el voltaje final al analizar cada una de los estímulos de las fuentes y realizar una suma algebraica consideran los sentidos de circulación, para realizar este análisis se sigue el siguiente proceso.
+Un circuito al ser alimentado por una fuente de voltaje o corriente, establece un camino por el que circulará la corriente a través del circuito hasta volver a la fuente, al aumentar el número de fuentes el concepto se sigue cumpliendo para cada una de ellas, y cada una de ellas estimula a cada elemento del circuito, por ello si analizamos fuentes de voltaje o corriente cuya sentido es opuesto, podemos reducir a una sola fuente en una dirección al realizar una suma algebraica de las mismas, y ya que cada una de ellas estimula de forma diferente a cada elemento del circuito se puede calcular el voltaje final al analizar cada uno de los estímulos de las fuentes y realizar una suma algebraica considerando los sentidos de circulación, para realizar este análisis se sigue el siguiente proceso.
 
 **1.**	Apague todas las fuentes independientes, excepto una. Determine la salida de tensión o corriente de la fuente activa aplicando el análisis con las Leyes de Kirchhoff.
+
 **2.**	Repita el paso anterior, para cada una de las demás fuentes independientes.
+
 **3.**	Halle los valores de voltaje o corriente total sumando algebraicamente las obtenidas en los pasos anteriores.
 
 # 4. DIAGRAMAS
@@ -84,7 +86,7 @@ Puesto que un circuito al ser alimentado por una fuente de voltaje o corriente, 
 
 # 10. BIBLIOGRAFÍA
 
-- _"Sadiku.M, Fundamentos de Circuitos Eléctricos, tercera edición"_
+-[1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, 2006.
 - http://repositorio.innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
 - https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9ctricos
 - https://www.youtube.com/watch?v=HXzxUEZmgRg
