@@ -94,4 +94,4 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 
 # 11. ANEXOS
 - Cálculos Analíticos
-Para visualizar los cálculos analíticos <https://github.com/erickfi/Laboratorio-4/blob/master/Anexos/Anexos.pdf>
+Ver cálculos analíticos < https://github.com/erickfi/Laboratorio-4/blob/master/Anexos/Anexos.pdf >
