@@ -84,7 +84,7 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 
 ![](img/cronograma-practica-4.PNG)
 
-# 10. BIBLIOGRAFÍA
+# 10. REFERENCIAS
 
 [1] R. B. Bardia.CIRCUITOS Y DISPOSITIVOS ELECTRÓNICOS. FUNDAMENTOSDE ELECTRÓNICA (PT), volume 5. Univ. Politèc. de Catalunya, 1999.
 
