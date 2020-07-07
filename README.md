@@ -6,9 +6,9 @@
 
 # 1. PLANTEAMIENTO DEL PROBLEMA
 
-La tensión y la intensidad son elementos fundamentales que un circuito requiere para su funcionamiento, al analizar un circuito estos elementos no solo representan el punto y la dirección por el que circula la corriente, sino que el voltaje del resto de los elementos electrónicos se verá afectado por el valor de los mismos, al usar las Leyes de Kirchhoff podemos crear relaciones tensión-intensidad, a esto le añadimos la Ley de Ohm que nos permite relacionar los elementos del circuito con los voltajes que tendrán o las corrientes que circulan por sus lazos.
+La tensión y la intensidad son elementos fundamentales que un circuito requiere para su funcionamiento, al analizar un circuito estos elementos no solo representan el punto y la dirección por el que circula la corriente, sino que, el voltaje del resto de los elementos electrónicos se verá afectado por el valor de los mismos, al usar las Leyes de Kirchhoff podemos crear relaciones tensión-intensidad, a esto le añadimos la Ley de Ohm que nos permite relacionar los elementos del circuito con los voltajes que tendrán o las corrientes que circulan por sus lazos.
 
-Para analizar un circuito usando las relaciones mencionadas anteriormente, existen dos métodos conocidos, análisis por mallas o análisis por nodos, los cuáles resultan efectivos e inmediatos cuando un circuito posee pocos elementos y varias fuentes ya sea de voltaje o corriente, sin embargo, si este número aumenta la dificultad de resolver usando estos métodos será directamente proporcional a este crecimiento, esto no se debe a que los métodos tenderán a fallar a medida que el circuito crece, el error radica en la matemática de la persona que analiza el circuito, de esta forma surgen métodos alternativos que nos permiten reducir de tamaño el circuito a analizar, como por ejemplo el divisor de corriente o voltaje, la transformación de fuentes, etc.
+Para analizar un circuito usando las relaciones mencionadas anteriormente, existen dos métodos conocidos, "análisis por mallas o análisis por nodos, cuya aplicación resulta fácil cuando un circuito posee pocos elementos y varias fuentes ya sea de voltaje o corriente"[1], sin embargo, si este número aumenta la dificultad de resolver usando estos métodos será directamente proporcional a este crecimiento, esto no se debe a que los métodos tenderán a fallar a medida que el circuito crece, el error radica en la matemática de la persona que analiza el circuito, de esta forma "surgen métodos alternativos que nos permiten reducir de tamaño el circuito a analizar, como por ejemplo el divisor de corriente o voltaje, la transformación de fuentes, etc" [2].
 
 Aunque los métodos mencionados funcionan aún existe el riesgo de un fallo en el análisis matemático, después de todo seguimos teniendo varias fuentes de corriente y/o voltaje cuyo método de resolución se reduce a un sistema de ecuaciones, de esta forma surgen las interrogantes, ¿Cuál es la probabilidad de que una persona falle en el análisis matemático?, ¿En qué condiciones el análisis usando las Leyes de Kirchhoff, la Ley de Ohm y los divisores de corriente y/o voltaje presentarían resultados aunque aproximados, erróneos?, pero sin lugar a dudas la interrogante más importante es ¿Hasta que punto es necesario la implementación de un nuevo método de análisis de circuitos?
 
@@ -24,7 +24,7 @@ Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, 
 
 # 3. MARCO TEÓRICO
 
-El principio o teorema de superposición establece que "la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones y/o intensidades a través de ese elemento debido a que cada fuente independiente actúa sola"[1].
+El principio o teorema de superposición establece que "la tensión entre los extremos de un elemento en un circuito lineal es la suma algebraica de las tensiones y/o intensidades a través de ese elemento debido a que cada fuente independiente actúa sola"[3].
 
 Un circuito al ser alimentado por una fuente de voltaje o corriente, establece un camino por el que circulará la corriente a través del circuito hasta volver a la fuente, al aumentar el número de fuentes el concepto se sigue cumpliendo para cada una de ellas, y cada una de ellas estimula a cada elemento del circuito, por ello si analizamos fuentes de voltaje o corriente cuya sentido es opuesto, podemos reducir a una sola fuente en una dirección al realizar una suma algebraica de las mismas, y ya que cada una de ellas estimula de forma diferente a cada elemento del circuito se puede calcular el voltaje final al analizar cada uno de los estímulos de las fuentes y realizar una suma algebraica considerando los sentidos de circulación, para realizar este análisis se sigue el siguiente proceso.
 
@@ -86,10 +86,11 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 
 # 10. BIBLIOGRAFÍA
 
--[1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, 2006.
-- http://repositorio.innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
-- https://www.ecured.cu/Teorema_de_superposici%C3%B3n_para_soluci%C3%B3n_de_circuitos_el%C3%A9ctricos
-- https://www.youtube.com/watch?v=HXzxUEZmgRg
+[1] R. B. Bardia.CIRCUITOS Y DISPOSITIVOS ELECTRÓNICOS. FUNDAMENTOSDE ELECTRÓNICA (PT), volume 5. Univ. Politèc. de Catalunya, 1999.
+
+[2] T. F. J. Luis. Presentación sobre: Linealidad y superposición.
+
+[3] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 
 # 11. ANEXOS
 
