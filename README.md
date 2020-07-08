@@ -96,6 +96,9 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 **- Cálculos Analíticos**
 
 Ver cálculos analíticos < https://github.com/erickfi/Laboratorio-4/blob/master/Anexos/Anexos.pdf >
+
 **- Videos**
+
 Ver video 1 < https://youtu.be/bk-6Zlexov8 >
+
 Ver video 2 < https://youtu.be/n0cYCrd0mjk >
