@@ -69,7 +69,7 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 ![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Tabla%20corrientes.PNG)
 
 # 7. CONCLUSIONES
--La corriente Ix, que pasa por el resistor de 470 Ohms, tiene un valor de 2,55 mA, el cuál depende del valor de la fuente V2.
+- La corriente Ix, que pasa por el resistor de 470 Ohms, tiene un valor de 2,55 mA, el cuál depende del valor de la fuente V2.
 - Existe un error menor al 1% en los cálculos de voltaje y un 0% en el cálculo de la corriente con el teorema de superposición, por lo tanto, se demuestra que el análisis de superposición funciona.
 - Los elementos eléctricos, independientemente de su ubicación en el circuito, son estimulados por cada fuente del circuito.
 - Se comprueba el teorema de superposición para voltajes  dado que si se suma la tensión al analizar la primera fuente que es  7.48  V y el voltaje del análisis de la segunda fuente -6.53 V se obtiene el  valor cercano al voltaje final de 952 mV
