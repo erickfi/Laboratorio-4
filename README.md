@@ -17,8 +17,10 @@ Las dos primeras preguntas planteadas aunque validas su respuesta va a diferir, 
 
 
 # 2. OBJETIVOS
-
+**Objetivo General**
 - Comprobar experimentalmente el teorema de superposicipon 
+
+**Objetivos específicos**
 - Analizar e identificar la interacción de los elementos de un circuito con cada una de las fuentes de voltaje y corriente.
 - Calcular y contrastar los voltajes de los elementos de un circuito eléctrico de usando el teorema de superposición y los obtenidos con un multimetro
 
