@@ -52,7 +52,7 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 
 - Análisis de la segunda fuente
 
-![](https://github.com/erickfi/Laboratorio-4/blob/master/img/thinker%204.3.png)
+![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Thinker%204.3.png)
 
 # 5. LISTA DE COMPONENTES
 
