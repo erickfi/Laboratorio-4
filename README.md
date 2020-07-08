@@ -62,7 +62,7 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 
 - Medición de voltaje aplicando superposición
 
-![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Tabla%20de%20voltajes.PNG)
+![](https://github.com/erickfi/Laboratorio-4/blob/master/img/Tabla%20de%20voltaje.PNG)
 
 - Medición de corriente aplicando superposición
 
