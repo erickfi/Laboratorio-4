@@ -73,7 +73,6 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 - Los elementos eléctricos, independientemente de su ubicación en el circuito, son estimulados por cada fuente del circuito.
 - Se comprueba el teorema de superposición para voltajes  dado que si se suma la tensión al analizar la primera fuente que es  7.48  V y el voltaje del análisis de la segunda fuente -6.53 V se obtiene el  valor cercano al voltaje final de 952 mV
 - Cuando se iguala la fuente de 12V a 0, la corriente que pasa por la resistencia de 470 ohmios es igual 0 ya que en este caso la corriente busca el camino mas facil o con menos resistencia para poder circular.
-- Cuando se apaga la fuente de voltaje V2, la corriente Ix es 0, esto se debe a que la corriente tiende a ir por el camino que presenta menor oposición, en este caso la corriente de la fuente V1, se va por el lazo de la resistencia de 2.2 kOhm.
 
 # 8. RECOMENDACIONES
 
