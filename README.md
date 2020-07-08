@@ -1,6 +1,6 @@
 # PRÁCTICA DE LABORATORIO N° 4.
 
-# ANÁLISIS DE MALLAS
+# TEOREMA DE SUPERPOSICIÓN.
 
 **Autores:** León Jiphson, Figueroa Erick, Viracucha William.
 
