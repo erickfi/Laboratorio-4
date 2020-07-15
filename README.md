@@ -83,10 +83,11 @@ Un circuito al ser alimentado por una fuente de voltaje o corriente, establece u
 - Si aplicamos el teorema de Superposición es necesario tener en cuenta que las fuentes de voltaje al igualarlas a 0 se comportan como un cortocircuito, por otro lado si tuvieramos fuentes de corriente estas se van a comportar como circuitos abiertos.
 
 | Parámetro Eléctrico| Circuito Original |           | Circuito   Equivalente Th |        |
-|------------------------|-------------------|-----------|---------------------------|--------|
-|                        | calculado         | medido    | calculado                 | medido |
-| Voltaje(V)            | 3.89 V            |  3.8926 V | 3.88 V                    | 3.89V  |
-| Corriente(mA)         | 3.89 mA           | 3.8926 mA | 3.88 mA                   | 3.89mA |
+|---------------|-------------------|-----------|---------------------------|--------|
+|               | calculado         | medido    | calculado                 | medido |
+| Voltaje(V)    | 3.89 V            |  3.8926 V | 3.88 V                    | 3.89V  |
+| Corriente(mA) | 3.89 mA           | 3.8926 mA | 3.88 mA                   | 3.89mA |
+
 
 # 9. CRONOGRAMA 
 
